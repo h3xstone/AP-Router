@@ -1,7 +1,7 @@
 # Description
 Raspberry pi scripts to automate tasks. These are designed to work with rpi-linux distro, but should also work in linux desktop version.  
 I know some code is redundant but it was done to try to ensure that any user input is handled properly and try to cover noob user's mistakes.  
-See [Extra](https://github.com/h3xstone/AP-Router/main/README.md#extra) section for more about using both together.
+See [Extra](./README.md#extra) section for more about using both together.
 
 ---
 # APVNCMODE
